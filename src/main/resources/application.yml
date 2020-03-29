@@ -1,0 +1,7 @@
+server:
+  port: 40101
+spring:
+  application:
+    name: notice-service
+  profiles:
+    active: test
